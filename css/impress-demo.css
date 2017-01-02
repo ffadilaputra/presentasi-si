@@ -269,7 +269,7 @@ strong {
     position: absolute;
     top: -0.5em;
     left: 1.5em;
-
+    text-align: center;    
     -webkit-transform: translateZ(20px);
     -moz-transform:    translateZ(20px);
     -ms-transform:     translateZ(20px);
@@ -278,7 +278,7 @@ strong {
 }
 
 #title h1 {
-    font-size: 190px;
+    font-size: 110px;
 
     -webkit-transform: translateZ(50px);
     -moz-transform:    translateZ(50px);
